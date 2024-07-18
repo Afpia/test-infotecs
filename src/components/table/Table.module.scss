@@ -1,0 +1,17 @@
+.table {
+	max-width: 1200px;
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+	td {
+		padding: 4px 0px;
+	}
+}
+.error {
+	text-align: center;
+	color: #ff7878;
+}
+
+.item {
+	cursor: pointer;
+}
